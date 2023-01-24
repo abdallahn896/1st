@@ -187,7 +187,7 @@ header .form i {
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url(/css/landing.jpg);
+    background-image: url(../css/landing.jpg);
     background-size: cover;
     background-color: rgb(48, 48, 48);
 }
@@ -336,7 +336,7 @@ header .form i {
     height: 500px;
     display: flex;
     justify-content: flex-end;
-    background-image: url(/css/806443.webp);
+    background-image: url(../css/806443.webp);
     background-size: cover;
     overflow: hidden;
 }
@@ -534,7 +534,7 @@ video {
 }
 /* end of .tablet-img */
 .numbers {
-    background-image: url(/css/maxresdefault.jpg);
+    background-image: url(../css/maxresdefault.jpg);
     padding-top: 100px;
     padding-bottom: 100px;
     background-size: cover;
@@ -756,7 +756,7 @@ video {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(/css/shuffle/quote.jpg);
+    background-image: url(../css/shuffle/quote.jpg);
     background-size: cover;
     position: relative;
 }
@@ -1027,7 +1027,7 @@ flex-basis: 70%;
 }
 /* footer */
 footer {
-    background-image: url(/css/shuffle/subscribe.jpg);
+    background-image: url(../css/shuffle/subscribe.jpg);
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     color: white;
